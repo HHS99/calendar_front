@@ -6,7 +6,7 @@ nvm install 14.18.1
 nvm list
   * 14.18.1 (Currently using 64-bit executable)
 ```
-
+## nodjs설정
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
